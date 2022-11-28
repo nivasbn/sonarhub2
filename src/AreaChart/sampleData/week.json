@@ -1,0 +1,45 @@
+[
+    {
+      "timestamp": "2022-10-10T00:00:00Z",
+      "CSPM Issues": 111382187,
+      "Azure Inventory": 7693489,
+      "Crowdstrike Hosts": 32646147
+    },
+    {
+      "timestamp": "2022-10-11T00:00:00Z",
+      "CSPM Issues": 111607690,
+      "Azure Inventory": 7707309,
+      "Crowdstrike Hosts": 99247429
+    },
+    {
+      "timestamp": "2022-10-12T00:00:00Z",
+      "CSPM Issues": 114926971,
+      "Azure Inventory": 7707796,
+      "Crowdstrike Hosts": 33072376
+    },
+    {
+      "timestamp": "2022-10-13T00:00:00Z",
+      "CSPM Issues": 112633475,
+      "Azure Inventory": 7711776,
+      "Crowdstrike Hosts": 32070842
+    },
+    {
+      "timestamp": "2022-10-14T00:00:00Z",
+      "CSPM Issues": 112590892,
+      "Azure Inventory": 7711569,
+      "Crowdstrike Hosts": 49718305
+    },
+    {
+      "timestamp": "2022-10-15T00:00:00Z",
+      "CSPM Issues": 113478157,
+      "Azure Inventory": 7708018,
+      "Crowdstrike Hosts": 9718305
+    },
+    {
+      "timestamp": "2022-10-16T00:00:00Z",
+      "CSPM Issues": 36627118,
+      "Azure Inventory": 7722222,
+      "Crowdstrike Hosts": 4718305
+    }
+  ]
+  

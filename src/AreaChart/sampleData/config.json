@@ -1,0 +1,70 @@
+{
+    "timePeriod": "week",
+    "margin": {
+      "top": 35,
+      "right": 30,
+      "bottom": 35,
+      "left": 80
+    },
+    "container": {
+      "defaultAspectRatio": 0.3,
+      "breakpoints": [
+        {
+          "screenWidth": 575,
+          "aspectRatio": 0.5
+        },
+        {
+          "screenWidth": 992,
+          "aspectRatio": 0.35
+        }
+      ]
+    },
+    "xAxis": {
+      "visible": true,
+      "majorGridlines": { "visible": false },
+      "minorGridlines": { "visible": false }
+    },
+    "yAxis": {
+      "ticks": 6,
+      "title": "in bytes",
+      "width": 80,
+      "tickLineWidth": 6,
+      "position": "right",
+      "visible": true,
+      "majorGridlines": { "visible": false },
+      "minorGridlines": { "visible": false },
+      "tickFormat": ",.2f"
+    },
+    "area": {
+      "curve": "curveCardinal",
+      "stackOrder": "stackOrderNone",
+      "visible": true,
+      "labels": {
+        "Crowdstrike Hosts": "Crowdstrike Hosts",
+        "CSPM Issues": "CSPM Issues",
+        "Azure Inventory": "Azure Inventory"
+      },
+      "keys": [
+        "Crowdstrike Hosts",
+        "CSPM Issues",
+        "Azure Inventory"
+      ],
+      "baseColor": "#12572A",
+      "lineColor": "#033212"
+    },
+    "nullData": {
+      "show": true,
+      "highlightGaps": true
+    },
+    "tooltip": {
+      "show": true,
+      "showLabel": true,
+      "background": "#ffffff",
+      "unit": " bytes",
+      "labelColor": "#FF4E35"
+    },
+    "legend": {
+      "show": true
+    }
+  }
+  

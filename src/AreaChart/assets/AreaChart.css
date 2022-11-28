@@ -1,0 +1,71 @@
+.axis text {
+  fill: #666666;
+  font-size: 12px;
+  letter-spacing: 0.5px;
+  line-height: 16px;
+}
+
+.domain {
+  stroke: #666666;
+}
+
+.y-axis-label {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 16px;
+  letter-spacing: 0.5px;
+  color: #666666;
+}
+
+.y-axis .domain {
+  display: none;
+}
+
+.axis line {
+  stroke: #ccc;
+}
+
+.bar {
+  fill: #bbbabb;
+}
+
+/* .line {
+  stroke-width: 1.5;
+} */
+
+.tooltip-rect {
+  rx: 5;
+  ry: 5;
+}
+
+.tippy-box,
+.tippy-content {
+  padding: 0 !important;
+  background-color: transparent !important;
+  background: transparent !important;
+  border-radius: 20px !important;
+}
+
+.CustomTooltip {
+  border-radius: 20px;
+  padding: 8px 15px;
+  text-align: center;
+}
+
+.CustomTooltip__Label {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 9px;
+  letter-spacing: 0.0444444px;
+  color: #098434;
+  margin-bottom: 8px;
+}
+
+.CustomTooltip__Value {
+  color: #1C1B1E;
+  letter-spacing: 0.0444444px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 9px;
+}
